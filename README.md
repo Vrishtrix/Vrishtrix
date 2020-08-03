@@ -1,5 +1,11 @@
 > Hello there 👋
-# I'm Vrishtrix (Vrishin Patel)
+## I'm Vrishtrix (Vrishin Patel)
+
+#### Where to find me?
+![Linkedin](https://raw.githubusercontent.com/Vrishtrix/Vrishtrix/master/linkedin.png "LinkedIn") - [Vrishin Patel](https://www.linkedin.com/in/vrishin-patel/)
+![Discord](https://raw.githubusercontent.com/Vrishtrix/Vrishtrix/master/discord.png "Discord") - Vrishtrix#3889
+![Instagram](https://raw.githubusercontent.com/Vrishtrix/Vrishtrix/master/instagram-sketched.png "Instagram") - [Vristrix](https://www.instagram.com/vrishtrix/)
+![Email](https://raw.githubusercontent.com/Vrishtrix/Vrishtrix/master/email.png "E-mail") - vrishin_patel@outlook.com
 
 <!--
 **Vrishtrix/Vrishtrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
